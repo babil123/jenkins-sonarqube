@@ -23,7 +23,7 @@
     <properties>
         <sonar.projectKey>java-demo</sonar.projectKey>
         <sonar.projectName>Java Demo Project</sonar.projectName>
-        <sonar.host.url>http://54.172.132.125:9000</sonar.host.url>
+        <sonar.host.url>http://3.230.126.180:9000</sonar.host.url>
     </properties>
 
     <dependencies>
